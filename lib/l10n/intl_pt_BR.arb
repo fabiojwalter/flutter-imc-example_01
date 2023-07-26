@@ -1,0 +1,10 @@
+{
+    "appBarTitle": "Calculadora IMC",
+    "pageHomeWeigh": "Peso (kg)",
+    "pageHomeHeight": "Altura (cm)",
+    "pageHomeCalculate": "Calcular",
+    "bmiResultUnder": "Abaixo do peso",
+    "bmiResultNormal": "Normal",
+    "bmiResultOverWeight": "Sobrepeso",
+    "bmiResultObesity": "Obesidade"
+}
