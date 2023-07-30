@@ -1,10 +1,12 @@
 {
-    "appBarTitle": "IMC Calculator",
-    "pageHomeWeigh": "Weight (kg)",
-    "pageHomeHeight": "Height (cm)",
-    "pageHomeCalculate": "Calculate",
-    "bmiResultUnder": "Under Weight",
-    "bmiResultNormal": "Normal",
-    "bmiResultOverWeight": "Overweight",
-    "bmiResultObesity": "Obesity"
+  "appBarTitle": "IMC Calculator",
+  "pageHomeWeigh": "Weight (kg)",
+  "pageHomeHeight": "Height (cm)",
+  "pageHomeCalculate": "Calculate",
+  "bmiResultUnder": "Under Weight",
+  "bmiResultNormal": "Normal",
+  "bmiResultOverWeight": "Overweight",
+  "bmiResultObesity": "Obesity",
+  "pageHomeWeightIsRequired": "Weight is required!",
+  "pageHomeHeightIsRequired": "Height is required!"
 }

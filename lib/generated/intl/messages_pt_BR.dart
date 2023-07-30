@@ -31,6 +31,10 @@ class MessageLookup extends MessageLookupByLibrary {
             MessageLookupByLibrary.simpleMessage("Abaixo do peso"),
         "pageHomeCalculate": MessageLookupByLibrary.simpleMessage("Calcular"),
         "pageHomeHeight": MessageLookupByLibrary.simpleMessage("Altura (cm)"),
-        "pageHomeWeigh": MessageLookupByLibrary.simpleMessage("Peso (kg)")
+        "pageHomeHeightIsRequired":
+            MessageLookupByLibrary.simpleMessage("Informe uma altura!"),
+        "pageHomeWeigh": MessageLookupByLibrary.simpleMessage("Peso (kg)"),
+        "pageHomeWeightIsRequired":
+            MessageLookupByLibrary.simpleMessage("Informe um peso!")
       };
 }

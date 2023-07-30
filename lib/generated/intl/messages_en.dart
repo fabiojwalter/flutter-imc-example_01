@@ -30,6 +30,10 @@ class MessageLookup extends MessageLookupByLibrary {
         "bmiResultUnder": MessageLookupByLibrary.simpleMessage("Under Weight"),
         "pageHomeCalculate": MessageLookupByLibrary.simpleMessage("Calculate"),
         "pageHomeHeight": MessageLookupByLibrary.simpleMessage("Height (cm)"),
-        "pageHomeWeigh": MessageLookupByLibrary.simpleMessage("Weight (kg)")
+        "pageHomeHeightIsRequired":
+            MessageLookupByLibrary.simpleMessage("Height is required!"),
+        "pageHomeWeigh": MessageLookupByLibrary.simpleMessage("Weight (kg)"),
+        "pageHomeWeightIsRequired":
+            MessageLookupByLibrary.simpleMessage("Weight is required!")
       };
 }

@@ -129,6 +129,26 @@ class S {
       args: [],
     );
   }
+
+  /// `Weight is required!`
+  String get pageHomeWeightIsRequired {
+    return Intl.message(
+      'Weight is required!',
+      name: 'pageHomeWeightIsRequired',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Height is required!`
+  String get pageHomeHeightIsRequired {
+    return Intl.message(
+      'Height is required!',
+      name: 'pageHomeHeightIsRequired',
+      desc: '',
+      args: [],
+    );
+  }
 }
 
 class AppLocalizationDelegate extends LocalizationsDelegate<S> {
